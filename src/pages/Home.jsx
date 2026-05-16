@@ -1,5 +1,5 @@
 import Hero from '../Hero'
-import Skills from '../skills'
+import Skills from '../Skills'
 
 function Home() {
   return (
@@ -10,4 +10,5 @@ function Home() {
   )
 }
 
-export default Home
+export default Home
+
